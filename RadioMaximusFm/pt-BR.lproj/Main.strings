@@ -1,0 +1,48 @@
+
+/* Class = "UINavigationItem"; title = "AO VIVO"; ObjectID = "FPS-hV-Xyl"; */
+"FPS-hV-Xyl.title" = "AO VIVO";
+
+/* Class = "UILabel"; text = "Titulo da noticia"; ObjectID = "MoQ-B8-Nrb"; */
+"MoQ-B8-Nrb.text" = "Titulo da noticia";
+
+/* Class = "UITabBarItem"; title = "No Ar"; ObjectID = "P9A-WP-4rw"; */
+"P9A-WP-4rw.title" = "No Ar";
+
+/* Class = "UIViewController"; title = "SOBRE"; ObjectID = "Pfr-ac-5lM"; */
+"Pfr-ac-5lM.title" = "SOBRE";
+
+/* Class = "UILabel"; text = "Desenvolvimento:"; ObjectID = "SRq-n5-xsD"; */
+"SRq-n5-xsD.text" = "Desenvolvimento:";
+
+/* Class = "UINavigationItem"; title = "ÚLTIMAS NOTÍCIAS"; ObjectID = "TzC-cC-VuH"; */
+"TzC-cC-VuH.title" = "ÚLTIMAS NOTÍCIAS";
+
+/* Class = "UILabel"; text = "Titulo"; ObjectID = "U15-NW-DP8"; */
+"U15-NW-DP8.text" = "Titulo";
+
+/* Class = "UILabel"; text = "Seja bem vindo!"; ObjectID = "Ufo-2y-9Ef"; */
+"Ufo-2y-9Ef.text" = "Seja bem vindo!";
+
+/* Class = "UITabBarItem"; title = "Mais"; ObjectID = "cqF-t2-DgD"; */
+"cqF-t2-DgD.title" = "Mais";
+
+/* Class = "UIButton"; normalTitle = "Nos avalie na App Store"; ObjectID = "fOD-8b-tQW"; */
+"fOD-8b-tQW.normalTitle" = "Nos avalie na App Store";
+
+/* Class = "UINavigationItem"; title = "Mais"; ObjectID = "jCG-qp-oY4"; */
+"jCG-qp-oY4.title" = "Mais";
+
+/* Class = "UINavigationItem"; title = "PROGRAMAÇÕES"; ObjectID = "qpg-Cy-gPh"; */
+"qpg-Cy-gPh.title" = "PROGRAMAÇÕES";
+
+/* Class = "UIButton"; normalTitle = "Contato via e-mail"; ObjectID = "tXb-oG-x6U"; */
+"tXb-oG-x6U.normalTitle" = "Contato via e-mail";
+
+/* Class = "UILabel"; text = "Siga a Rádio Paranaíba nas redes sociais:"; ObjectID = "te0-33-UQ9"; */
+"te0-33-UQ9.text" = "Siga a Rádio Paranaíba nas redes sociais:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vM5-93-oEz"; */
+"vM5-93-oEz.text" = "Label";
+
+/* Class = "UILabel"; text = "Daniel Araujo Silva \nHigor Daniel C. Silva"; ObjectID = "xTz-Bu-2kX"; */
+"xTz-Bu-2kX.text" = "Daniel Araujo Silva \nHigor Daniel C. Silva";
