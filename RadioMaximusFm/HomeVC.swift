@@ -79,6 +79,7 @@ class HomeVC: BaseViewController,MFMailComposeViewControllerDelegate{
             
         }catch let erro as NSError {
             print("Aconteceu um erro de sessão! \(erro.description)")
+            self.showAlert(title: "Ops", message: "Aconteceu um erro de sessão! O Streaming que é requerido pelo app, não está sendo recebido!")
         }
 
     }

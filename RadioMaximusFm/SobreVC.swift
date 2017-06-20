@@ -87,7 +87,7 @@ class SobreVC: BaseViewController ,MFMailComposeViewControllerDelegate{
         self.sendEmail()
     }
     @IBAction func btn_avaliacao(_ sender: Any) {
-        self.rateApp(appId: "1236604952", completion: { (success) in
+        self.rateApp(appId: "id1236604952", completion: { (success) in
             print("RateApp \(success)")
         })
     }

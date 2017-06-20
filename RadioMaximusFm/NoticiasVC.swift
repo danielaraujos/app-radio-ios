@@ -137,13 +137,16 @@ class NoticiasVC: BaseViewController, UITableViewDelegate, UITableViewDataSource
         let b = self.noticias[indexPath.row]
         let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath) as! CelulaNoticia
         
-        
-        Alamofire.request(API.Instance.lerImagem(sufix:"\(b.imagem!)")).responseImage { response in
-            if let image = response.result.value {
-                cell.imagemCelula.image = image
+        if(b.imagem != nil ){
+            Alamofire.request(API.Instance.lerImagem(sufix:"\(b.imagem!)")).responseImage { response in
+                if let image = response.result.value {
+                    cell.imagemCelula.image = image
+                }
             }
+        }else {
+            cell.imagemCelula.image = #imageLiteral(resourceName: "sImage");
+            
         }
-        //print(API.Instance.lerImagem(sufix:"\(b.imagem!)"))
         
         
         cell.tituloCelula.text = b.title;
